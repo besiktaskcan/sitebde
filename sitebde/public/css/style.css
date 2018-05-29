@@ -1,0 +1,18 @@
+body {
+    background-color: #c2242a;
+}
+.header {    
+    border-radius: 5px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background-color: white;
+    margin-top: 10px;
+}
+.content {
+    background-color: white;
+    margin-top: 10px;
+}
+.page-title {
+    border-bottom: solid 2px black;
+    margin: 10px;
+}
